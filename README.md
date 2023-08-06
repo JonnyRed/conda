@@ -35,3 +35,10 @@ List by environment
 List by environment and package
 
 `conda list pandas -n Riley`
+
+# Admin commands
+
+List configuration in `.condarc`. It is in yml format.
+
+`conda info`
+

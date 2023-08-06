@@ -1,3 +1,9 @@
+# History
+
+2023/8/6
+
+* Update from 2023-05-24(rev 3) to version  23.7.2(rev 4)
+
 # Package management with conda
 
 ## Conda references
@@ -18,7 +24,14 @@
 `conda remove --name sympy --all`
 
 ## List Packages
+List all the revisions and their packages
+
+`conda list --revisions`
+
+List by environment
 
 `conda list -n Riley`
+
+List by environment and package
 
 `conda list pandas -n Riley`

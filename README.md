@@ -1,4 +1,10 @@
-# Package management with conda
+# History
+
+2023/8/6
+
+* Update from 2023-05-24(rev 3) to version  23.7.2(rev 4)
+
+## Package management with conda
 
 ## Conda references
 
@@ -16,6 +22,20 @@
 
 ## List Packages
 
+List all the revisions and their packages
+
+`conda list --revisions`
+
+List by environment
+
 `conda list -n Riley`
 
+List by environment and package
+
 `conda list pandas -n Riley`
+
+## Admin commands
+
+List configuration in `.condarc`. It is in yml format.
+
+`conda info`

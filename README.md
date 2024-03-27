@@ -2,12 +2,9 @@
 
 ## Conda references
 
-
 [User Guide][]
 
-
 [User Guide]:https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#
-
 
 ## Create environment
 

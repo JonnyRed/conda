@@ -1,8 +1,4 @@
-# History
-
-2023/8/6
-
-* Update from 2023-05-24(rev 3) to version  23.7.2(rev 4)
+# Conda 
 
 ## Package management with conda
 

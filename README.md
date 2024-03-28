@@ -38,7 +38,11 @@ List by environment and package
 
 # Admin commands
 
+## info
 List configuration in `.condarc`. It is in yml format.
 
 `conda info`
 
+## update
+
+`conda update conda`
